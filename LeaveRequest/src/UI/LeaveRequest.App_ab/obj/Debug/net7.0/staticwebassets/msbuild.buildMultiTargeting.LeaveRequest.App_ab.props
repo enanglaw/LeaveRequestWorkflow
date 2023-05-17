@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LeaveRequest.App_ab.props" />
+</Project>

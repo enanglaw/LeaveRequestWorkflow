@@ -1,0 +1,330 @@
+2023-05-11 07:25:14.157 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 07:25:14.260 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 07:25:14.268 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 07:25:14.274 +01:00 [INF] Hosting environment: Development
+2023-05-11 07:25:14.277 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 08:26:47.279 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 08:26:47.360 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 08:26:47.369 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 08:26:47.372 +01:00 [INF] Hosting environment: Development
+2023-05-11 08:26:47.375 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 09:28:21.207 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 09:28:21.265 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 09:28:21.275 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 09:28:21.278 +01:00 [INF] Hosting environment: Development
+2023-05-11 09:28:21.282 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 10:48:13.257 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 10:48:13.303 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 10:48:13.310 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 10:48:13.313 +01:00 [INF] Hosting environment: Development
+2023-05-11 10:48:13.315 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 11:07:45.449 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 11:07:45.532 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 11:07:45.543 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 11:07:45.547 +01:00 [INF] Hosting environment: Development
+2023-05-11 11:07:45.552 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 11:22:11.087 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 11:22:11.155 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 11:22:11.166 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 11:22:11.169 +01:00 [INF] Hosting environment: Development
+2023-05-11 11:22:11.172 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 11:33:33.697 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 11:33:33.748 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 11:33:33.755 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 11:33:33.758 +01:00 [INF] Hosting environment: Development
+2023-05-11 11:33:33.761 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 11:43:42.928 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 11:43:42.989 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 11:43:42.996 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 11:43:43.000 +01:00 [INF] Hosting environment: Development
+2023-05-11 11:43:43.002 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 12:05:08.215 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 12:05:08.279 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 12:05:08.294 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 12:05:08.298 +01:00 [INF] Hosting environment: Development
+2023-05-11 12:05:08.300 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 12:07:02.732 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 12:07:02.801 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 12:07:02.810 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 12:07:02.814 +01:00 [INF] Hosting environment: Development
+2023-05-11 12:07:02.818 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 12:37:02.032 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 12:37:02.072 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 12:37:02.077 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 12:37:02.078 +01:00 [INF] Hosting environment: Development
+2023-05-11 12:37:02.080 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 12:42:44.148 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 12:42:44.176 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 12:42:44.182 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 12:42:44.184 +01:00 [INF] Hosting environment: Development
+2023-05-11 12:42:44.186 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 12:54:20.383 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 12:54:20.419 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 12:54:20.424 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 12:54:20.425 +01:00 [INF] Hosting environment: Development
+2023-05-11 12:54:20.427 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 12:54:27.524 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The constraint reference ' employeeId' could not be resolved to a type. Register the constraint type with 'Microsoft.AspNetCore.Routing.RouteOptions.ConstraintMap'.
+   at Microsoft.AspNetCore.Routing.DefaultParameterPolicyFactory.Create(RoutePatternParameterPart parameter, String inlineText)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CreateCandidate(Endpoint endpoint, Int32 score)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CreateCandidates(IReadOnlyList`1 endpoints)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.Build()
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.CreateMatcher(IReadOnlyList`1 endpoints)
+   at Microsoft.AspNetCore.Routing.DataSourceDependentCache`1.Initialize()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[T](T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher..ctor(EndpointDataSource dataSource, Lifetime lifetime, Func`1 matcherBuilderFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherFactory.CreateMatcher(EndpointDataSource dataSource)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.InitializeCoreAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.<Invoke>g__AwaitMatcher|8_0(EndpointRoutingMiddleware middleware, HttpContext httpContext, Task`1 matcherTask)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-05-11 12:54:28.773 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The constraint reference ' employeeId' could not be resolved to a type. Register the constraint type with 'Microsoft.AspNetCore.Routing.RouteOptions.ConstraintMap'.
+   at Microsoft.AspNetCore.Routing.DefaultParameterPolicyFactory.Create(RoutePatternParameterPart parameter, String inlineText)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CreateCandidate(Endpoint endpoint, Int32 score)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CreateCandidates(IReadOnlyList`1 endpoints)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.Build()
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.CreateMatcher(IReadOnlyList`1 endpoints)
+   at Microsoft.AspNetCore.Routing.DataSourceDependentCache`1.Initialize()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[T](T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher..ctor(EndpointDataSource dataSource, Lifetime lifetime, Func`1 matcherBuilderFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherFactory.CreateMatcher(EndpointDataSource dataSource)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.InitializeCoreAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.<Invoke>g__AwaitMatcher|8_0(EndpointRoutingMiddleware middleware, HttpContext httpContext, Task`1 matcherTask)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-05-11 12:57:00.291 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 12:57:00.315 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 12:57:00.319 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 12:57:00.322 +01:00 [INF] Hosting environment: Development
+2023-05-11 12:57:00.323 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 12:57:05.134 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The constraint reference ' employeeId' could not be resolved to a type. Register the constraint type with 'Microsoft.AspNetCore.Routing.RouteOptions.ConstraintMap'.
+   at Microsoft.AspNetCore.Routing.DefaultParameterPolicyFactory.Create(RoutePatternParameterPart parameter, String inlineText)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CreateCandidate(Endpoint endpoint, Int32 score)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CreateCandidates(IReadOnlyList`1 endpoints)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.Build()
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.CreateMatcher(IReadOnlyList`1 endpoints)
+   at Microsoft.AspNetCore.Routing.DataSourceDependentCache`1.Initialize()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[T](T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher..ctor(EndpointDataSource dataSource, Lifetime lifetime, Func`1 matcherBuilderFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherFactory.CreateMatcher(EndpointDataSource dataSource)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.InitializeCoreAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.<Invoke>g__AwaitMatcher|8_0(EndpointRoutingMiddleware middleware, HttpContext httpContext, Task`1 matcherTask)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-05-11 12:57:05.698 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The constraint reference ' employeeId' could not be resolved to a type. Register the constraint type with 'Microsoft.AspNetCore.Routing.RouteOptions.ConstraintMap'.
+   at Microsoft.AspNetCore.Routing.DefaultParameterPolicyFactory.Create(RoutePatternParameterPart parameter, String inlineText)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CreateCandidate(Endpoint endpoint, Int32 score)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CreateCandidates(IReadOnlyList`1 endpoints)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.Build()
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.CreateMatcher(IReadOnlyList`1 endpoints)
+   at Microsoft.AspNetCore.Routing.DataSourceDependentCache`1.Initialize()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[T](T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher..ctor(EndpointDataSource dataSource, Lifetime lifetime, Func`1 matcherBuilderFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherFactory.CreateMatcher(EndpointDataSource dataSource)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.InitializeCoreAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.<Invoke>g__AwaitMatcher|8_0(EndpointRoutingMiddleware middleware, HttpContext httpContext, Task`1 matcherTask)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-05-11 12:58:00.846 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 12:58:00.871 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 12:58:00.876 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 12:58:00.878 +01:00 [INF] Hosting environment: Development
+2023-05-11 12:58:00.879 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 12:58:05.659 +01:00 [INF] HTTP GET /index.html responded 200 in 268.6683 ms
+2023-05-11 13:03:37.230 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 13:03:37.253 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 13:03:37.258 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 13:03:37.261 +01:00 [INF] Hosting environment: Development
+2023-05-11 13:03:37.263 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 13:03:43.141 +01:00 [INF] HTTP GET /index.html responded 200 in 218.5616 ms
+2023-05-11 13:05:04.231 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 13:05:04.263 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 13:05:04.269 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 13:05:04.272 +01:00 [INF] Hosting environment: Development
+2023-05-11 13:05:04.274 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 13:07:33.673 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 13:07:33.695 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 13:07:33.699 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 13:07:33.702 +01:00 [INF] Hosting environment: Development
+2023-05-11 13:07:33.704 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 13:09:07.047 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 13:09:07.073 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 13:09:07.077 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 13:09:07.079 +01:00 [INF] Hosting environment: Development
+2023-05-11 13:09:07.079 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 13:10:26.096 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 13:10:26.130 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 13:10:26.134 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 13:10:26.136 +01:00 [INF] Hosting environment: Development
+2023-05-11 13:10:26.137 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 13:11:07.574 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 13:11:07.597 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 13:11:07.600 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 13:11:07.601 +01:00 [INF] Hosting environment: Development
+2023-05-11 13:11:07.602 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 16:50:07.953 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 16:50:08.016 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 16:50:08.025 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 16:50:08.028 +01:00 [INF] Hosting environment: Development
+2023-05-11 16:50:08.031 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 16:50:23.000 +01:00 [INF] HTTP GET /index.html responded 200 in 158.5166 ms
+2023-05-11 16:50:23.047 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 16:51:44.102 +01:00 [INF] HTTP GET /api/employee responded 200 in 10695.5354 ms
+2023-05-11 17:17:40.741 +01:00 [INF] HTTP GET /index.html responded 200 in 38.7013 ms
+2023-05-11 17:17:40.780 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 17:18:23.234 +01:00 [INF] HTTP GET /api/employee responded 200 in 6354.7361 ms
+2023-05-11 17:20:19.825 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 17:20:19.861 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 17:20:19.865 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 17:20:19.867 +01:00 [INF] Hosting environment: Development
+2023-05-11 17:20:19.868 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 17:48:42.321 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 17:48:42.378 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 17:48:42.385 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 17:48:42.387 +01:00 [INF] Hosting environment: Development
+2023-05-11 17:48:42.390 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 17:49:22.863 +01:00 [INF] HTTP GET /index.html responded 200 in 224.2625 ms
+2023-05-11 17:49:22.904 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 18:14:38.981 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 18:14:39.036 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 18:14:39.041 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 18:14:39.043 +01:00 [INF] Hosting environment: Development
+2023-05-11 18:14:39.045 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 18:15:31.075 +01:00 [INF] HTTP GET /api/employee responded 200 in 26767.0715 ms
+2023-05-11 18:16:01.272 +01:00 [INF] HTTP GET /index.html responded 200 in 48.6289 ms
+2023-05-11 18:16:01.326 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 18:26:35.026 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 18:26:35.091 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 18:26:35.098 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 18:26:35.101 +01:00 [INF] Hosting environment: Development
+2023-05-11 18:26:35.104 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 18:27:01.459 +01:00 [INF] HTTP GET /api/employee responded 200 in 1418.2087 ms
+2023-05-11 18:35:56.979 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 18:35:57.036 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 18:35:57.043 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 18:35:57.048 +01:00 [INF] Hosting environment: Development
+2023-05-11 18:35:57.052 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 18:36:04.470 +01:00 [INF] HTTP GET /index.html responded 200 in 131.0650 ms
+2023-05-11 18:36:04.529 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 18:36:28.512 +01:00 [INF] HTTP GET /api/employee responded 200 in 1449.1297 ms
+2023-05-11 18:36:45.347 +01:00 [INF] HTTP GET /index.html responded 200 in 5.4583 ms
+2023-05-11 18:36:45.361 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 22:02:17.438 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 22:02:17.504 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 22:02:17.511 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 22:02:17.515 +01:00 [INF] Hosting environment: Development
+2023-05-11 22:02:17.518 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 22:02:30.067 +01:00 [INF] HTTP GET /index.html responded 200 in 161.0294 ms
+2023-05-11 22:02:30.386 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 22:02:47.803 +01:00 [INF] HTTP GET /api/employee responded 200 in 1674.1692 ms
+2023-05-11 22:03:48.442 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 22:03:48.523 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 22:03:48.529 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 22:03:48.531 +01:00 [INF] Hosting environment: Development
+2023-05-11 22:03:48.534 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 22:04:58.384 +01:00 [INF] HTTP GET /api/employee responded 200 in 1469.8533 ms
+2023-05-11 22:36:00.682 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 22:36:00.737 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 22:36:00.744 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 22:36:00.748 +01:00 [INF] Hosting environment: Development
+2023-05-11 22:36:00.751 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 22:36:30.561 +01:00 [INF] HTTP GET /api/employee responded 200 in 2370.8440 ms
+2023-05-11 22:36:45.251 +01:00 [INF] HTTP GET /index.html responded 200 in 40.4812 ms
+2023-05-11 22:36:45.291 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 22:49:24.600 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 22:49:24.666 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 22:49:24.673 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 22:49:24.676 +01:00 [INF] Hosting environment: Development
+2023-05-11 22:49:24.679 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 22:50:53.397 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 22:50:53.478 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 22:50:53.487 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 22:50:53.491 +01:00 [INF] Hosting environment: Development
+2023-05-11 22:50:53.494 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 22:51:29.737 +01:00 [INF] HTTP GET /api/employee responded 200 in 1432.1015 ms
+2023-05-11 22:51:59.840 +01:00 [INF] HTTP GET /index.html responded 200 in 2321.4918 ms
+2023-05-11 22:51:59.872 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 22:52:28.137 +01:00 [INF] HTTP GET /index.html responded 200 in 4.7794 ms
+2023-05-11 22:52:28.147 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 22:52:39.865 +01:00 [INF] HTTP GET /api/employee responded 200 in 94.8050 ms
+2023-05-11 22:59:21.024 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 22:59:21.083 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 22:59:21.088 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 22:59:21.090 +01:00 [INF] Hosting environment: Development
+2023-05-11 22:59:21.092 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 22:59:48.113 +01:00 [INF] HTTP GET /api/employee responded 200 in 1658.1097 ms
+2023-05-11 23:00:05.649 +01:00 [INF] HTTP GET /index.html responded 200 in 42.7518 ms
+2023-05-11 23:00:05.711 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 23:00:15.988 +01:00 [INF] HTTP GET /api/employee responded 200 in 102.6003 ms
+2023-05-11 23:02:09.398 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 23:02:09.462 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 23:02:09.468 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 23:02:09.471 +01:00 [INF] Hosting environment: Development
+2023-05-11 23:02:09.475 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 23:02:32.763 +01:00 [INF] HTTP GET /api/employee responded 200 in 1534.6789 ms
+2023-05-11 23:03:40.897 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 23:03:40.964 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 23:03:40.972 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 23:03:40.977 +01:00 [INF] Hosting environment: Development
+2023-05-11 23:03:40.983 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 23:04:04.147 +01:00 [INF] HTTP GET /api/employee responded 200 in 1553.0582 ms
+2023-05-11 23:05:17.822 +01:00 [INF] HTTP GET /index.html responded 200 in 60.4613 ms
+2023-05-11 23:05:17.861 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 23:05:26.652 +01:00 [INF] HTTP GET /api/employee responded 200 in 94.4154 ms
+2023-05-11 23:14:53.947 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 23:14:54.002 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 23:14:54.008 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 23:14:54.012 +01:00 [INF] Hosting environment: Development
+2023-05-11 23:14:54.014 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 23:15:02.637 +01:00 [INF] HTTP GET /index.html responded 200 in 135.6162 ms
+2023-05-11 23:15:02.688 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 23:15:22.757 +01:00 [INF] HTTP GET /api/employee responded 200 in 2141.4155 ms
+2023-05-11 23:15:50.758 +01:00 [INF] HTTP GET /index.html responded 200 in 5.8231 ms
+2023-05-11 23:15:50.779 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 23:18:23.751 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 23:18:23.813 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 23:18:23.820 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 23:18:23.823 +01:00 [INF] Hosting environment: Development
+2023-05-11 23:18:23.826 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 23:18:47.508 +01:00 [INF] HTTP GET /api/employee responded 200 in 1596.4177 ms
+2023-05-11 23:25:30.862 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-11 23:25:30.903 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-11 23:25:30.912 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 23:25:30.918 +01:00 [INF] Hosting environment: Development
+2023-05-11 23:25:30.923 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-11 23:25:56.698 +01:00 [INF] HTTP GET /api/employee responded 200 in 1397.6212 ms
+2023-05-11 23:26:11.128 +01:00 [INF] HTTP GET /index.html responded 200 in 43.1979 ms
+2023-05-11 23:26:11.159 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-11 23:38:12.941 +01:00 [INF] HTTP GET /index.html responded 200 in 5.5379 ms
+2023-05-11 23:38:12.952 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.

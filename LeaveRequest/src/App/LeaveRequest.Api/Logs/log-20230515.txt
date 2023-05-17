@@ -1,0 +1,516 @@
+2023-05-15 10:11:36.800 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 10:11:36.867 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 10:11:36.872 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 10:11:36.876 +01:00 [INF] Hosting environment: Development
+2023-05-15 10:11:36.878 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 10:11:50.147 +01:00 [INF] HTTP GET /index.html responded 200 in 764.8179 ms
+2023-05-15 10:11:50.184 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-15 10:21:18.614 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 10:21:18.641 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 10:21:18.646 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 10:21:18.647 +01:00 [INF] Hosting environment: Development
+2023-05-15 10:21:18.648 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 10:23:14.429 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 10:23:14.462 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 10:23:14.466 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 10:23:14.467 +01:00 [INF] Hosting environment: Development
+2023-05-15 10:23:14.469 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 10:24:40.907 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 10:24:40.943 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 10:24:40.947 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 10:24:40.949 +01:00 [INF] Hosting environment: Development
+2023-05-15 10:24:40.951 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 10:31:00.344 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 10:31:00.379 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 10:31:00.383 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 10:31:00.384 +01:00 [INF] Hosting environment: Development
+2023-05-15 10:31:00.385 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 12:30:08.512 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 12:30:08.693 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 12:30:08.731 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 12:30:08.734 +01:00 [INF] Hosting environment: Development
+2023-05-15 12:30:08.736 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 12:39:27.903 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 12:39:27.970 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 12:39:27.979 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 12:39:27.981 +01:00 [INF] Hosting environment: Development
+2023-05-15 12:39:27.984 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 12:47:24.335 +01:00 [INF] HTTP GET /index.html responded 200 in 104.6966 ms
+2023-05-15 12:47:24.391 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-15 12:58:29.546 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 12:58:29.624 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 12:58:29.633 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 12:58:29.637 +01:00 [INF] Hosting environment: Development
+2023-05-15 12:58:29.642 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 13:01:21.429 +01:00 [INF] HTTP GET /index.html responded 200 in 101.7432 ms
+2023-05-15 13:01:21.495 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-15 13:10:58.480 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 13:10:58.538 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 13:10:58.545 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 13:10:58.548 +01:00 [INF] Hosting environment: Development
+2023-05-15 13:10:58.553 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 13:33:35.625 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 13:33:35.693 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 13:33:35.702 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 13:33:35.706 +01:00 [INF] Hosting environment: Development
+2023-05-15 13:33:35.710 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 14:12:10.922 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 14:12:10.978 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 14:12:10.983 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 14:12:10.986 +01:00 [INF] Hosting environment: Development
+2023-05-15 14:12:10.989 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 14:17:26.445 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 14:17:26.611 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 14:17:26.623 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 14:17:26.626 +01:00 [INF] Hosting environment: Development
+2023-05-15 14:17:26.628 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 14:18:20.348 +01:00 [INF] HTTP GET /api/employee responded 200 in 2031.8075 ms
+2023-05-15 14:18:49.863 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 685.7916 ms
+2023-05-15 14:19:10.261 +01:00 [INF] HTTP GET /api/country responded 200 in 56.1089 ms
+2023-05-15 14:19:10.722 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 63.3804 ms
+2023-05-15 14:19:22.643 +01:00 [INF] HTTP GET /api/employee responded 200 in 18.9657 ms
+2023-05-15 14:19:26.024 +01:00 [INF] HTTP GET /api/country responded 200 in 10.4057 ms
+2023-05-15 14:19:26.136 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 12.2455 ms
+2023-05-15 14:19:26.176 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 19.1719 ms
+2023-05-15 14:24:26.248 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 14:24:26.274 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 14:24:26.278 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 14:24:26.281 +01:00 [INF] Hosting environment: Development
+2023-05-15 14:24:26.282 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 14:28:50.022 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 14:28:50.043 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 14:28:50.048 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 14:28:50.050 +01:00 [INF] Hosting environment: Development
+2023-05-15 14:28:50.052 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 14:29:20.245 +01:00 [INF] HTTP GET /api/employee responded 200 in 816.3184 ms
+2023-05-15 16:29:57.356 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 16:29:57.428 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 16:29:57.436 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 16:29:57.440 +01:00 [INF] Hosting environment: Development
+2023-05-15 16:29:57.444 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 16:30:27.039 +01:00 [INF] HTTP GET /api/employee responded 200 in 1633.7362 ms
+2023-05-15 16:30:40.550 +01:00 [INF] HTTP GET /index.html responded 200 in 44.5618 ms
+2023-05-15 16:30:40.615 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-15 16:30:51.585 +01:00 [INF] HTTP GET /api/employee responded 200 in 125.2468 ms
+2023-05-15 17:50:45.673 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 17:50:45.742 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 17:50:45.748 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 17:50:45.750 +01:00 [INF] Hosting environment: Development
+2023-05-15 17:50:45.753 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 17:51:44.577 +01:00 [INF] HTTP GET /api/employee responded 200 in 1562.1241 ms
+2023-05-15 18:34:53.064 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 18:34:53.151 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 18:34:53.157 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 18:34:53.160 +01:00 [INF] Hosting environment: Development
+2023-05-15 18:34:53.163 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 18:35:29.491 +01:00 [INF] HTTP GET /api/employee responded 200 in 1863.0029 ms
+2023-05-15 18:35:42.822 +01:00 [INF] HTTP GET /api/country responded 200 in 187.1168 ms
+2023-05-15 18:35:43.228 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 54.0771 ms
+2023-05-15 18:35:46.359 +01:00 [INF] HTTP GET /api/employee responded 200 in 11.6381 ms
+2023-05-15 18:35:50.988 +01:00 [INF] HTTP GET /api/country responded 200 in 13.5842 ms
+2023-05-15 18:35:51.058 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 8.4232 ms
+2023-05-15 18:35:53.424 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 2347.1745 ms
+2023-05-15 18:36:43.991 +01:00 [ERR] HTTP PUT /api/employee responded 500 in 2716.1663 ms
+System.InvalidOperationException: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmployeeId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.set_State(EntityState value)
+   at LeaveRequest.Persistence.Repositories.BaseAsyncRepository`1.UpdateAsync(T entity) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Infrastructure\LeaveRequest.Persistence\Repositories\BaseAsyncRepository.cs:line 47
+   at LeaveRequest.Api.Controllers.EmployeeController.UpdatetEmployees(Employee employeeVm) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api\Controllers\EmployeeController.cs:line 87
+   at lambda_method289(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-05-15 18:36:44.064 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmployeeId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.set_State(EntityState value)
+   at LeaveRequest.Persistence.Repositories.BaseAsyncRepository`1.UpdateAsync(T entity) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Infrastructure\LeaveRequest.Persistence\Repositories\BaseAsyncRepository.cs:line 47
+   at LeaveRequest.Api.Controllers.EmployeeController.UpdatetEmployees(Employee employeeVm) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api\Controllers\EmployeeController.cs:line 87
+   at lambda_method289(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-05-15 18:36:51.953 +01:00 [INF] HTTP GET /api/employee responded 200 in 10.6018 ms
+2023-05-15 18:36:55.253 +01:00 [INF] HTTP GET /api/country responded 200 in 21.5951 ms
+2023-05-15 18:36:55.427 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 12.5104 ms
+2023-05-15 18:36:55.478 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 20.3180 ms
+2023-05-15 18:50:12.043 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 18:50:12.085 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 18:50:12.088 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 18:50:12.089 +01:00 [INF] Hosting environment: Development
+2023-05-15 18:50:12.091 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 18:50:44.823 +01:00 [INF] HTTP GET /api/employee responded 200 in 1119.5741 ms
+2023-05-15 18:50:50.822 +01:00 [INF] HTTP GET /api/country responded 200 in 105.8499 ms
+2023-05-15 18:50:51.010 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 58.1589 ms
+2023-05-15 18:50:51.252 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 209.8634 ms
+2023-05-15 18:55:12.561 +01:00 [ERR] HTTP PUT /api/employee responded 500 in 168881.4576 ms
+System.InvalidOperationException: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmployeeId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.set_State(EntityState value)
+   at LeaveRequest.Persistence.Repositories.BaseAsyncRepository`1.UpdateAsync(T entity) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Infrastructure\LeaveRequest.Persistence\Repositories\BaseAsyncRepository.cs:line 47
+   at LeaveRequest.Api.Controllers.EmployeeController.UpdatetEmployees(Employee employeeVm) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api\Controllers\EmployeeController.cs:line 87
+   at lambda_method289(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-05-15 18:55:12.601 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmployeeId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.set_State(EntityState value)
+   at LeaveRequest.Persistence.Repositories.BaseAsyncRepository`1.UpdateAsync(T entity) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Infrastructure\LeaveRequest.Persistence\Repositories\BaseAsyncRepository.cs:line 47
+   at LeaveRequest.Api.Controllers.EmployeeController.UpdatetEmployees(Employee employeeVm) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api\Controllers\EmployeeController.cs:line 87
+   at lambda_method289(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-05-15 19:17:36.865 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 19:17:36.911 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 19:17:36.914 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 19:17:36.915 +01:00 [INF] Hosting environment: Development
+2023-05-15 19:17:36.917 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 19:18:03.102 +01:00 [INF] HTTP GET /api/employee responded 200 in 999.7737 ms
+2023-05-15 19:18:15.217 +01:00 [INF] HTTP GET /api/country responded 200 in 93.5833 ms
+2023-05-15 19:18:15.394 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 36.8795 ms
+2023-05-15 19:18:15.616 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 194.1395 ms
+2023-05-15 19:20:47.856 +01:00 [ERR] HTTP PUT /api/employee responded 500 in 56562.5558 ms
+System.InvalidOperationException: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmployeeId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.set_State(EntityState value)
+   at LeaveRequest.Persistence.Repositories.BaseAsyncRepository`1.UpdateAsync(T entity) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Infrastructure\LeaveRequest.Persistence\Repositories\BaseAsyncRepository.cs:line 47
+   at LeaveRequest.Api.Controllers.EmployeeController.UpdatetEmployees(Employee employeeVm) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api\Controllers\EmployeeController.cs:line 87
+   at lambda_method289(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-05-15 19:20:47.884 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmployeeId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.set_State(EntityState value)
+   at LeaveRequest.Persistence.Repositories.BaseAsyncRepository`1.UpdateAsync(T entity) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Infrastructure\LeaveRequest.Persistence\Repositories\BaseAsyncRepository.cs:line 47
+   at LeaveRequest.Api.Controllers.EmployeeController.UpdatetEmployees(Employee employeeVm) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api\Controllers\EmployeeController.cs:line 87
+   at lambda_method289(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-05-15 19:23:16.748 +01:00 [INF] HTTP GET /api/employee responded 200 in 22.1837 ms
+2023-05-15 19:23:19.445 +01:00 [INF] HTTP GET /api/country responded 200 in 7.9237 ms
+2023-05-15 19:23:19.493 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 5.7664 ms
+2023-05-15 19:23:19.510 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 4.7225 ms
+2023-05-15 19:33:36.515 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 19:33:36.547 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 19:33:36.550 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 19:33:36.552 +01:00 [INF] Hosting environment: Development
+2023-05-15 19:33:36.553 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 19:36:03.319 +01:00 [INF] HTTP GET /api/employee responded 200 in 1003.5655 ms
+2023-05-15 19:36:05.569 +01:00 [INF] HTTP GET /api/country responded 200 in 106.3445 ms
+2023-05-15 19:36:05.720 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 34.9942 ms
+2023-05-15 19:36:05.932 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 179.3423 ms
+2023-05-15 19:38:19.799 +01:00 [ERR] HTTP PUT /api/employee responded 500 in 80304.7009 ms
+System.InvalidOperationException: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmployeeId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.set_State(EntityState value)
+   at LeaveRequest.Persistence.Repositories.BaseAsyncRepository`1.UpdateAsync(T entity) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Infrastructure\LeaveRequest.Persistence\Repositories\BaseAsyncRepository.cs:line 47
+   at LeaveRequest.Api.Controllers.EmployeeController.UpdatetEmployees(Employee employeeVm) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api\Controllers\EmployeeController.cs:line 88
+   at lambda_method289(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-05-15 19:38:19.838 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmployeeId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.set_State(EntityState value)
+   at LeaveRequest.Persistence.Repositories.BaseAsyncRepository`1.UpdateAsync(T entity) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Infrastructure\LeaveRequest.Persistence\Repositories\BaseAsyncRepository.cs:line 47
+   at LeaveRequest.Api.Controllers.EmployeeController.UpdatetEmployees(Employee employeeVm) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api\Controllers\EmployeeController.cs:line 88
+   at lambda_method289(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-05-15 19:38:36.271 +01:00 [INF] HTTP GET /api/employee responded 200 in 3875.8196 ms
+2023-05-15 19:38:48.732 +01:00 [INF] HTTP GET /api/country responded 200 in 3.7809 ms
+2023-05-15 19:38:48.780 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 4.9679 ms
+2023-05-15 19:38:48.795 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 6.0893 ms
+2023-05-15 21:21:42.475 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 21:21:43.142 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 21:21:43.149 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 21:21:43.153 +01:00 [INF] Hosting environment: Development
+2023-05-15 21:21:43.155 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 21:22:17.686 +01:00 [INF] HTTP GET /api/country responded 200 in 1309.7716 ms
+2023-05-15 21:22:18.074 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 197.2449 ms
+2023-05-15 21:22:21.487 +01:00 [INF] HTTP GET /api/employee responded 200 in 301.3997 ms
+2023-05-15 21:22:24.469 +01:00 [INF] HTTP GET /api/country responded 200 in 8.4760 ms
+2023-05-15 21:22:24.547 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 7.8248 ms
+2023-05-15 21:22:24.906 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 335.1233 ms
+2023-05-15 21:24:06.111 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 21:24:06.145 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 21:24:06.150 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 21:24:06.152 +01:00 [INF] Hosting environment: Development
+2023-05-15 21:24:06.153 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 21:24:28.968 +01:00 [INF] HTTP GET /api/employee responded 200 in 2070.2949 ms
+2023-05-15 21:24:32.004 +01:00 [INF] HTTP GET /api/country responded 200 in 159.8900 ms
+2023-05-15 21:24:32.295 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 64.6713 ms
+2023-05-15 21:24:32.645 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 296.2194 ms
+2023-05-15 21:27:06.210 +01:00 [ERR] HTTP PUT /api/employee responded 500 in 72006.7649 ms
+System.InvalidOperationException: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmployeeId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.set_State(EntityState value)
+   at LeaveRequest.Persistence.Repositories.BaseAsyncRepository`1.UpdateAsync(T entity) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Infrastructure\LeaveRequest.Persistence\Repositories\BaseAsyncRepository.cs:line 52
+   at LeaveRequest.Api.Controllers.EmployeeController.UpdatetEmployees(Employee employeeVm) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api\Controllers\EmployeeController.cs:line 88
+   at lambda_method289(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-05-15 21:27:06.283 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmployeeId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.set_State(EntityState value)
+   at LeaveRequest.Persistence.Repositories.BaseAsyncRepository`1.UpdateAsync(T entity) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Infrastructure\LeaveRequest.Persistence\Repositories\BaseAsyncRepository.cs:line 52
+   at LeaveRequest.Api.Controllers.EmployeeController.UpdatetEmployees(Employee employeeVm) in C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api\Controllers\EmployeeController.cs:line 88
+   at lambda_method289(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-05-15 21:28:37.607 +01:00 [INF] HTTP GET /api/employee responded 200 in 47.4247 ms
+2023-05-15 21:28:40.630 +01:00 [INF] HTTP GET /api/country responded 200 in 13.1004 ms
+2023-05-15 21:28:40.752 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 8.3244 ms
+2023-05-15 21:28:40.779 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 9.6120 ms
+2023-05-15 22:17:01.744 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 22:17:01.834 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 22:17:01.842 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 22:17:01.845 +01:00 [INF] Hosting environment: Development
+2023-05-15 22:17:01.850 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 22:17:33.655 +01:00 [INF] HTTP GET /api/employee responded 200 in 1717.4163 ms
+2023-05-15 22:17:36.545 +01:00 [INF] HTTP GET /api/country responded 200 in 167.0677 ms
+2023-05-15 22:17:36.865 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 50.0109 ms
+2023-05-15 22:17:37.335 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 395.7595 ms
+2023-05-15 22:22:28.624 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 22:22:28.694 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 22:22:28.700 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 22:22:28.702 +01:00 [INF] Hosting environment: Development
+2023-05-15 22:22:28.705 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 22:23:20.192 +01:00 [INF] HTTP GET /api/employee responded 200 in 2458.0451 ms
+2023-05-15 22:23:23.398 +01:00 [INF] HTTP GET /api/country responded 200 in 220.7887 ms
+2023-05-15 22:23:23.765 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 75.1126 ms
+2023-05-15 22:23:24.209 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 365.0934 ms
+2023-05-15 22:27:54.641 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 22:27:54.715 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 22:27:54.722 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 22:27:54.725 +01:00 [INF] Hosting environment: Development
+2023-05-15 22:27:54.728 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 22:28:23.760 +01:00 [INF] HTTP GET /api/employee responded 200 in 1694.3180 ms
+2023-05-15 22:28:27.482 +01:00 [INF] HTTP GET /api/country responded 200 in 175.6113 ms
+2023-05-15 22:28:27.852 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 65.8858 ms
+2023-05-15 22:28:28.485 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 516.7250 ms
+2023-05-15 22:38:04.086 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 22:38:04.155 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 22:38:04.161 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 22:38:04.163 +01:00 [INF] Hosting environment: Development
+2023-05-15 22:38:04.166 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 22:38:32.835 +01:00 [INF] HTTP GET /api/employee responded 200 in 1788.1761 ms
+2023-05-15 22:38:37.202 +01:00 [INF] HTTP GET /api/country responded 200 in 168.1987 ms
+2023-05-15 22:38:37.548 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 64.5701 ms
+2023-05-15 22:38:37.974 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 366.4170 ms
+2023-05-15 22:41:00.822 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-15 22:41:00.889 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-15 22:41:00.896 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 22:41:00.899 +01:00 [INF] Hosting environment: Development
+2023-05-15 22:41:00.902 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-15 22:42:29.217 +01:00 [INF] HTTP GET /api/employee responded 200 in 866.4774 ms
+2023-05-15 22:42:31.220 +01:00 [INF] HTTP GET /api/country responded 200 in 105.2258 ms
+2023-05-15 22:42:31.379 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 40.1141 ms
+2023-05-15 22:42:31.588 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 177.9742 ms
+2023-05-15 22:44:38.495 +01:00 [INF] HTTP PUT /api/employee responded 204 in 81192.9141 ms
+2023-05-15 22:44:51.073 +01:00 [INF] HTTP GET /api/employee responded 200 in 41.5940 ms
+2023-05-15 22:44:52.752 +01:00 [INF] HTTP GET /api/country responded 200 in 5.1985 ms
+2023-05-15 22:44:52.806 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 3.9263 ms
+2023-05-15 22:44:52.820 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 4.1423 ms
+2023-05-15 22:51:32.288 +01:00 [INF] HTTP PUT /api/employee responded 204 in 13028.4734 ms
+2023-05-15 22:51:35.274 +01:00 [INF] HTTP GET /api/employee responded 200 in 4.2166 ms
+2023-05-15 22:51:38.720 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 5.9140 ms
+2023-05-15 23:02:14.388 +01:00 [INF] HTTP GET /api/employee responded 200 in 112.0558 ms
+2023-05-15 23:02:17.265 +01:00 [INF] HTTP GET /api/country responded 200 in 6.9295 ms
+2023-05-15 23:02:17.314 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 4.9056 ms
+2023-05-15 23:02:17.329 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 3.7403 ms
+2023-05-15 23:02:51.484 +01:00 [INF] HTTP PUT /api/employee responded 204 in 19.0742 ms
+2023-05-15 23:02:54.837 +01:00 [INF] HTTP GET /api/employee responded 200 in 5.6818 ms
+2023-05-15 23:02:56.984 +01:00 [INF] HTTP GET /api/country responded 200 in 3.3918 ms
+2023-05-15 23:02:57.033 +01:00 [INF] HTTP GET /api/jobcategory responded 200 in 2.7725 ms
+2023-05-15 23:02:57.044 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 4.7779 ms

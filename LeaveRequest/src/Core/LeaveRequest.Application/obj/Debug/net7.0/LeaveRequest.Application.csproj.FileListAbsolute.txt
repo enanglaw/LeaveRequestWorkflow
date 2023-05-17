@@ -1,0 +1,15 @@
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\bin\Debug\net7.0\LeaveRequest.Application.deps.json
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\bin\Debug\net7.0\LeaveRequest.Application.dll
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\bin\Debug\net7.0\LeaveRequest.Application.pdb
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\bin\Debug\net7.0\LeaveRequest.Domain.dll
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\bin\Debug\net7.0\LeaveRequest.Domain.pdb
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\obj\Debug\net7.0\LeaveRequest.Application.csproj.AssemblyReference.cache
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\obj\Debug\net7.0\LeaveRequest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\obj\Debug\net7.0\LeaveRequest.Application.AssemblyInfoInputs.cache
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\obj\Debug\net7.0\LeaveRequest.Application.AssemblyInfo.cs
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\obj\Debug\net7.0\LeaveRequest.Application.csproj.CoreCompileInputs.cache
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\obj\Debug\net7.0\LeaveRequest.Application.csproj.CopyComplete
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\obj\Debug\net7.0\LeaveRequest.Application.dll
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\obj\Debug\net7.0\refint\LeaveRequest.Application.dll
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\obj\Debug\net7.0\LeaveRequest.Application.pdb
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Application\obj\Debug\net7.0\ref\LeaveRequest.Application.dll

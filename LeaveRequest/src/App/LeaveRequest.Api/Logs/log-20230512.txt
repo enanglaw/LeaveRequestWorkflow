@@ -1,0 +1,105 @@
+2023-05-12 00:06:16.044 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 00:06:16.136 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 00:06:16.149 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 00:06:16.155 +01:00 [INF] Hosting environment: Development
+2023-05-12 00:06:16.162 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 00:06:44.760 +01:00 [INF] HTTP GET /api/employee responded 200 in 1566.6419 ms
+2023-05-12 00:11:41.933 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 00:11:41.994 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 00:11:42.000 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 00:11:42.002 +01:00 [INF] Hosting environment: Development
+2023-05-12 00:11:42.005 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 00:12:11.652 +01:00 [INF] HTTP GET /api/employee responded 200 in 2023.0387 ms
+2023-05-12 00:12:54.245 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 00:12:54.334 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 00:12:54.345 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 00:12:54.350 +01:00 [INF] Hosting environment: Development
+2023-05-12 00:12:54.355 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 00:13:21.271 +01:00 [INF] HTTP GET /api/employee responded 200 in 1679.0576 ms
+2023-05-12 00:14:42.303 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 00:14:42.383 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 00:14:42.392 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 00:14:42.396 +01:00 [INF] Hosting environment: Development
+2023-05-12 00:14:42.400 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 00:16:13.629 +01:00 [INF] HTTP GET /api/employee responded 200 in 8725.0068 ms
+2023-05-12 07:49:48.723 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 07:49:48.783 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 07:49:48.789 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 07:49:48.791 +01:00 [INF] Hosting environment: Development
+2023-05-12 07:49:48.793 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 07:49:57.155 +01:00 [INF] HTTP GET /index.html responded 200 in 160.9357 ms
+2023-05-12 07:49:57.208 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-12 07:50:34.066 +01:00 [INF] HTTP GET /api/employee responded 200 in 1879.9062 ms
+2023-05-12 10:40:17.780 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 10:40:17.849 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 10:40:17.858 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 10:40:17.862 +01:00 [INF] Hosting environment: Development
+2023-05-12 10:40:17.866 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 10:40:27.795 +01:00 [INF] HTTP GET /index.html responded 200 in 127.1697 ms
+2023-05-12 10:40:27.863 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-12 10:40:46.497 +01:00 [INF] HTTP GET /api/employee responded 200 in 1547.1847 ms
+2023-05-12 11:59:46.956 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 11:59:47.001 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 11:59:47.006 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 11:59:47.008 +01:00 [INF] Hosting environment: Development
+2023-05-12 11:59:47.010 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 12:00:09.021 +01:00 [INF] HTTP GET /api/employee responded 200 in 657.4918 ms
+2023-05-12 12:35:25.769 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 12:35:25.859 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 12:35:25.864 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 12:35:25.866 +01:00 [INF] Hosting environment: Development
+2023-05-12 12:35:25.869 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 12:35:57.041 +01:00 [INF] HTTP GET /api/employee responded 200 in 1579.4592 ms
+2023-05-12 13:08:57.498 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 13:08:57.573 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 13:08:57.580 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 13:08:57.584 +01:00 [INF] Hosting environment: Development
+2023-05-12 13:08:57.586 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 13:09:08.588 +01:00 [INF] HTTP GET /index.html responded 200 in 175.4447 ms
+2023-05-12 13:09:08.678 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-12 13:09:28.426 +01:00 [INF] HTTP GET /api/employee responded 200 in 1470.9583 ms
+2023-05-12 13:36:34.955 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 13:36:35.400 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 13:36:35.427 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 13:36:35.442 +01:00 [INF] Hosting environment: Development
+2023-05-12 13:36:35.445 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 13:39:35.675 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 13:39:35.709 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 13:39:35.712 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 13:39:35.714 +01:00 [INF] Hosting environment: Development
+2023-05-12 13:39:35.715 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 13:41:16.618 +01:00 [INF] HTTP GET /api/employee responded 200 in 2038.8841 ms
+2023-05-12 13:44:13.058 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 79470.9958 ms
+2023-05-12 13:45:41.403 +01:00 [INF] HTTP GET /api/employee responded 200 in 30.1927 ms
+2023-05-12 15:58:54.629 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 15:58:54.698 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 15:58:54.706 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 15:58:54.709 +01:00 [INF] Hosting environment: Development
+2023-05-12 15:58:54.714 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 15:59:02.853 +01:00 [INF] HTTP GET /index.html responded 200 in 157.0218 ms
+2023-05-12 15:59:03.790 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-12 15:59:41.603 +01:00 [INF] HTTP GET /api/employee responded 200 in 5574.9553 ms
+2023-05-12 16:00:09.199 +01:00 [INF] HTTP GET /api/employee/1 responded 200 in 10706.0169 ms
+2023-05-12 21:47:52.867 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 21:47:52.965 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 21:47:52.974 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 21:47:52.977 +01:00 [INF] Hosting environment: Development
+2023-05-12 21:47:52.980 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 21:48:02.913 +01:00 [INF] HTTP GET /index.html responded 200 in 126.7327 ms
+2023-05-12 21:48:02.958 +01:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2023-05-12 21:48:40.089 +01:00 [INF] HTTP GET /index.html responded 200 in 4.4945 ms
+2023-05-12 21:50:59.008 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 21:50:59.062 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 21:50:59.069 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 21:50:59.072 +01:00 [INF] Hosting environment: Development
+2023-05-12 21:50:59.075 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 22:07:21.877 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 22:07:21.971 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 22:07:21.979 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 22:07:21.983 +01:00 [INF] Hosting environment: Development
+2023-05-12 22:07:21.988 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api
+2023-05-12 22:16:12.704 +01:00 [INF] Now listening on: https://localhost:7192
+2023-05-12 22:16:12.771 +01:00 [INF] Now listening on: http://localhost:5232
+2023-05-12 22:16:12.779 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-12 22:16:12.785 +01:00 [INF] Hosting environment: Development
+2023-05-12 22:16:12.789 +01:00 [INF] Content root path: C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\App\LeaveRequest.Api

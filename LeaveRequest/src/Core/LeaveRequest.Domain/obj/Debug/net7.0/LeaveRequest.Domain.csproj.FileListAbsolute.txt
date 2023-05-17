@@ -1,0 +1,12 @@
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Domain\bin\Debug\net7.0\LeaveRequest.Domain.deps.json
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Domain\bin\Debug\net7.0\LeaveRequest.Domain.dll
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Domain\bin\Debug\net7.0\LeaveRequest.Domain.pdb
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Domain\obj\Debug\net7.0\LeaveRequest.Domain.csproj.AssemblyReference.cache
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Domain\obj\Debug\net7.0\LeaveRequest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Domain\obj\Debug\net7.0\LeaveRequest.Domain.AssemblyInfoInputs.cache
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Domain\obj\Debug\net7.0\LeaveRequest.Domain.AssemblyInfo.cs
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Domain\obj\Debug\net7.0\LeaveRequest.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Domain\obj\Debug\net7.0\LeaveRequest.Domain.dll
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Domain\obj\Debug\net7.0\refint\LeaveRequest.Domain.dll
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Domain\obj\Debug\net7.0\LeaveRequest.Domain.pdb
+C:\Projects\Project_2023\Blazor_23\LeaveRequest\src\Core\LeaveRequest.Domain\obj\Debug\net7.0\ref\LeaveRequest.Domain.dll

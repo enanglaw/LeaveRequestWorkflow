@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Infrastructure\\LeaveRequest.Persistence\\LeaveRequest.Persistence.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Application\\LeaveRequest.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Application\\LeaveRequest.Application.csproj",
+        "projectName": "LeaveRequest.Application",
+        "projectPath": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Application\\LeaveRequest.Application.csproj",
+        "packagesPath": "C:\\Users\\lawrence.enang\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lawrence.enang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Domain\\LeaveRequest.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Domain\\LeaveRequest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Domain\\LeaveRequest.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Domain\\LeaveRequest.Domain.csproj",
+        "projectName": "LeaveRequest.Domain",
+        "projectPath": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Domain\\LeaveRequest.Domain.csproj",
+        "packagesPath": "C:\\Users\\lawrence.enang\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lawrence.enang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Infrastructure\\LeaveRequest.Persistence\\LeaveRequest.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Infrastructure\\LeaveRequest.Persistence\\LeaveRequest.Persistence.csproj",
+        "projectName": "LeaveRequest.Persistence",
+        "projectPath": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Infrastructure\\LeaveRequest.Persistence\\LeaveRequest.Persistence.csproj",
+        "packagesPath": "C:\\Users\\lawrence.enang\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Infrastructure\\LeaveRequest.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lawrence.enang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Application\\LeaveRequest.Application.csproj": {
+                "projectPath": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Application\\LeaveRequest.Application.csproj"
+              },
+              "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Domain\\LeaveRequest.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\Core\\LeaveRequest.Domain\\LeaveRequest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

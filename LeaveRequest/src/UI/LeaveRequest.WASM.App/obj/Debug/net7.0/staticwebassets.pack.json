@@ -1,0 +1,645 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\obj\\Debug\\net7.0\\build-gz\\xbjG8mnd.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LeaveRequest.WASM.App.styles.css",
+      "PackagePath": "staticwebassets\\LeaveRequest.WASM.App.styles.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\images\\b3Paylogo.png",
+      "PackagePath": "staticwebassets\\images\\b3Paylogo.png"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\images\\b3Paylogo_1.png",
+      "PackagePath": "staticwebassets\\images\\b3Paylogo_1.png"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\images\\bethanylogo.png",
+      "PackagePath": "staticwebassets\\images\\bethanylogo.png"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\images\\pattern.png"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\images\\profilePicture.jpg",
+      "PackagePath": "staticwebassets\\images\\profilePicture.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Projects\\Project_2023\\Blazor_23\\LeaveRequest\\src\\UI\\LeaveRequest.WASM.App\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LeaveRequest.WASM.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LeaveRequest.WASM.App.props",
+      "PackagePath": "build\\LeaveRequest.WASM.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LeaveRequest.WASM.App.props",
+      "PackagePath": "buildMultiTargeting\\LeaveRequest.WASM.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LeaveRequest.WASM.App.props",
+      "PackagePath": "buildTransitive\\LeaveRequest.WASM.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
